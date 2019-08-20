@@ -1,2 +1,4 @@
 # goBarber
-Aplicação desenvolvida durante o curso GoStack
+Api desenvolvida durante o curso GoStack
+
+
