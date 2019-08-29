@@ -5,7 +5,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/server.js",
-    "queue": "nodemon src/Queue.js"
+    "queue": "nodemon src/Queue.js",
+    "start": "sucrase-node src/server.js",
+    "startQueue": "sucrase-node src/Queue.js"
   },
   "dependencies": {
     "@sentry/node": "5.6.2",
